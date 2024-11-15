@@ -1,0 +1,13 @@
+1st:
+Answer the following telecom-related question:
+
+{question}
+
+ONLY GIVE ME THE CORRECT OPTION NO
+
+2nd:
+Answer the following telecom-related question:
+
+{question}
+
+ONLY GIVE ME THE CORRECT OPTION NO (INTEGER); DON'T GIVE ME ANY EXPLANATION
